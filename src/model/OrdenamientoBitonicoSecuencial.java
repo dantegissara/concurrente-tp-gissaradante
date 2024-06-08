@@ -7,7 +7,7 @@ public class OrdenamientoBitonicoSecuencial {
 
 			// Simulación de carga de trabajo
 			try {
-				Thread.sleep(3);
+				Thread.sleep(1);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
